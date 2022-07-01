@@ -1,0 +1,17 @@
+table, td{
+
+    border: 2px solid black;
+    padding: 5px;
+    margin-left: 150px;
+}
+
+table{
+
+    border-spacing: 15px;
+
+}
+
+.container-fluid{
+    font: solid white;
+}
+
